@@ -2,7 +2,7 @@
 
 Demo Project for Spring-Boot Api 
 
-Progetto di apprendimento per Spring-Boot 
+Progetto di esempio per Spring-Boot 
 
 E’ necessario scrivere una applicazione basata su Spring Boot in grado di leggere all’interno di una directory configurabile un file CSV, parsarlo in un modello dati e trasformarlo in un file JSON corrispondente. Il file JSON deve essere scritto in una directory configurabile.
 
